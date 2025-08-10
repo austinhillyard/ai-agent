@@ -1,5 +1,6 @@
 import os
-from config import MAX_FILE_READ_LENGTH
+# from config import MAX_FILE_READ_LENGTH
+MAX_FILE_READ_LENGTH = 10000
 
 def get_file_content(working_directory, file_path):
     # Get full absolute path given directory and working directory
