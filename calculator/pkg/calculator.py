@@ -1,5 +1,3 @@
-# calculator.py from http://boot.dev/lessons/325d88f7-ce86-4ccd-a99d-dcdfef44f2e8
-
 class Calculator:
     def __init__(self):
         self.operators = {
